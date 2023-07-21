@@ -1,0 +1,33 @@
+
+
+.footer{
+    max-width: 100%;
+    background-color: #6278F7;
+    background-image: url('/public/imagens/fundo.png');
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    padding: 80px;
+    color: #fff;
+}
+
+.footer .redes-sociais{
+    margin: 32px;
+
+}
+
+.redes-sociais img{
+    padding-right: 32px;
+}
+
+.footer .logo{
+   margin-right: 32px;
+
+}
+
+.footer p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    margin-right: 0;
+
+}
